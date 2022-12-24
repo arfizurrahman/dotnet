@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Fn7FihQn1h67Ke1odlBsLI2DmBTh1mCGmbpWF6ekH12eqW9h5vI1AUujqhrFexjO05NE+YAVTlFZSJtxyq0eJg==",
+  "dgSpecHash": "cifCiei5OswgKpKttwdVVvQIedpebuD7j2kUizhgmWvTQaWF5tBBz9CkAL8eu7kWf/ek+nQg8w+qIaM+kdzP4Q==",
   "success": true,
   "projectFilePath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Api\\EasyDinner.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

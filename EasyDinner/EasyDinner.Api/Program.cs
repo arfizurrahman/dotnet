@@ -1,5 +1,11 @@
+
+using EasyDinner.Application;
+using EasyDinner.Infrastrcuture;
+
 var builder = WebApplication.CreateBuilder(args);
 {
+    builder.Services.AddApplication()
+                    .AddInfrastrcuture();
     builder.Services.AddControllers();
 }
 
