@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "EasyDinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "EasyDinner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EasyDinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyDinner.Application.dll": {}
+        }
+      },
+      "EasyDinner.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/EasyDinner.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyDinner.Contracts.dll": {}
+        }
+      },
+      "EasyDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/EasyDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyDinner.Domain.dll": {}
+        }
+      },
+      "EasyDinner.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "EasyDinner.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EasyDinner.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyDinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EasyDinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../EasyDinner.Application/EasyDinner.Application.csproj",
+      "msbuildProject": "../EasyDinner.Application/EasyDinner.Application.csproj"
+    },
+    "EasyDinner.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../EasyDinner.Contracts/EasyDinner.Contracts.csproj",
+      "msbuildProject": "../EasyDinner.Contracts/EasyDinner.Contracts.csproj"
+    },
+    "EasyDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../EasyDinner.Domain/EasyDinner.Domain.csproj",
+      "msbuildProject": "../EasyDinner.Domain/EasyDinner.Domain.csproj"
+    },
+    "EasyDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../EasyDinner.Infrastructure/EasyDinner.Infrastructure.csproj",
+      "msbuildProject": "../EasyDinner.Infrastructure/EasyDinner.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "EasyDinner.Application >= 1.0.0",
+      "EasyDinner.Contracts >= 1.0.0",
+      "EasyDinner.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\arfiz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Api\\EasyDinner.Api.csproj",
+      "projectName": "EasyDinner.Api",
+      "projectPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Api\\EasyDinner.Api.csproj",
+      "packagesPath": "C:\\Users\\arfiz\\.nuget\\packages\\",
+      "outputPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\arfiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Application\\EasyDinner.Application.csproj": {
+              "projectPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Application\\EasyDinner.Application.csproj"
+            },
+            "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Contracts\\EasyDinner.Contracts.csproj": {
+              "projectPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Contracts\\EasyDinner.Contracts.csproj"
+            },
+            "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Infrastructure\\EasyDinner.Infrastructure.csproj": {
+              "projectPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Infrastructure\\EasyDinner.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EasyDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "EasyDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "EasyDinner.Infrastructure.dll": {}
+        }
+      },
+      "EasyDinner.Application/1.0.0": {
+        "dependencies": {
+          "EasyDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EasyDinner.Application.dll": {}
+        }
+      },
+      "EasyDinner.Domain/1.0.0": {
+        "runtime": {
+          "EasyDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EasyDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EasyDinner.Api/1.0.0": {
+        "dependencies": {
+          "EasyDinner.Application": "1.0.0",
+          "EasyDinner.Contracts": "1.0.0",
+          "EasyDinner.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "EasyDinner.Api.dll": {}
+        }
+      },
+      "EasyDinner.Application/1.0.0": {
+        "dependencies": {
+          "EasyDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EasyDinner.Application.dll": {}
+        }
+      },
+      "EasyDinner.Contracts/1.0.0": {
+        "runtime": {
+          "EasyDinner.Contracts.dll": {}
+        }
+      },
+      "EasyDinner.Domain/1.0.0": {
+        "runtime": {
+          "EasyDinner.Domain.dll": {}
+        }
+      },
+      "EasyDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "EasyDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "EasyDinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EasyDinner.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyDinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

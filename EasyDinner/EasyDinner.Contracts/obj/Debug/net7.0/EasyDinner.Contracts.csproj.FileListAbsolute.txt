@@ -1,0 +1,12 @@
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\bin\Debug\net7.0\EasyDinner.Contracts.deps.json
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\bin\Debug\net7.0\EasyDinner.Contracts.dll
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\bin\Debug\net7.0\EasyDinner.Contracts.pdb
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\EasyDinner.Contracts.csproj.AssemblyReference.cache
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\EasyDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\EasyDinner.Contracts.AssemblyInfoInputs.cache
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\EasyDinner.Contracts.AssemblyInfo.cs
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\EasyDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\EasyDinner.Contracts.dll
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\refint\EasyDinner.Contracts.dll
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\EasyDinner.Contracts.pdb
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Contracts\obj\Debug\net7.0\ref\EasyDinner.Contracts.dll

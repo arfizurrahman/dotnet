@@ -1,0 +1,12 @@
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\bin\Debug\net7.0\EasyDinner.Domain.deps.json
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\bin\Debug\net7.0\EasyDinner.Domain.dll
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\bin\Debug\net7.0\EasyDinner.Domain.pdb
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\EasyDinner.Domain.csproj.AssemblyReference.cache
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\EasyDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\EasyDinner.Domain.AssemblyInfoInputs.cache
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\EasyDinner.Domain.AssemblyInfo.cs
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\EasyDinner.Domain.csproj.CoreCompileInputs.cache
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\EasyDinner.Domain.dll
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\refint\EasyDinner.Domain.dll
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\EasyDinner.Domain.pdb
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Domain\obj\Debug\net7.0\ref\EasyDinner.Domain.dll
