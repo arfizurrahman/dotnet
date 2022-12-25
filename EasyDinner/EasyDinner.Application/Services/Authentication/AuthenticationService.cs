@@ -1,3 +1,4 @@
+using EasyDinner.Application.Common.Errors;
 using EasyDinner.Application.Common.Interfaces.Authentication;
 using EasyDinner.Application.Common.Interfaces.Persistence;
 using EasyDinner.Domain.Entities;
@@ -38,7 +39,7 @@ public class AuthenticationService : IAuthenticationService
         // 1. Validate the user doesn't exist
         if (_userRepository.GetUserByEmail(email) is not null)
         {
-            throw new Exception("User with given email already exists.");
+            throw new DuplicateEmailException();
         }
         // 2. Create user (generate unique ID) & Persist to DB
         var user = new User

@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Options;
 
-namespace EasyDinner.Api.Errors;
+namespace EasyDinner.Api.Common.Errors;
 
 public class EasyDinnerProblemDetailsFactory : ProblemDetailsFactory
 {
