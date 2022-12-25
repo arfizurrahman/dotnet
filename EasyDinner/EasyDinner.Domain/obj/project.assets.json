@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Domain\\EasyDinner.Domain.csproj",
+      "projectUniqueName": "D:\\Arfiz\\Practice\\dotnet\\EasyDInner\\EasyDinner.Domain\\EasyDinner.Domain.csproj",
       "projectName": "EasyDinner.Domain",
-      "projectPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Domain\\EasyDinner.Domain.csproj",
+      "projectPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDInner\\EasyDinner.Domain\\EasyDinner.Domain.csproj",
       "packagesPath": "C:\\Users\\arfiz\\.nuget\\packages\\",
-      "outputPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Domain\\obj\\",
+      "outputPath": "D:\\Arfiz\\Practice\\dotnet\\EasyDInner\\EasyDinner.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
