@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hGzP8KvXW9S5bdq0ktqI1TriskYpkMOfL7S689P5BSMN79Mta7OVKHR9/4xN9nZYpOl6MEC/UK+ysWKEx5bRdQ==",
+  "dgSpecHash": "g1qgyl8IJK/vM87Z7KlNSM/QhjfXMhe9G+ZlihMz4EXl8kUrQoJET/TuhYHwKH8kd7XHxeNLabwJdOslio6YFA==",
   "success": true,
   "projectFilePath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Application\\EasyDinner.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arfiz\\.nuget\\packages\\fluentresults\\3.15.1\\fluentresults.3.15.1.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\arfiz\\.nuget\\packages\\oneof\\3.0.223\\oneof.3.0.223.nupkg.sha512"
+    "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\arfiz\\.nuget\\packages\\oneof\\3.0.223\\oneof.3.0.223.nupkg.sha512",
+    "C:\\Users\\arfiz\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
