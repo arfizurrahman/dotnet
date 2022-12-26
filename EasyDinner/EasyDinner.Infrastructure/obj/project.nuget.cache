@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3xjaK/2hX9dlxOG0e0fWDVHNdYg/dllN3OJN/OsuneVVcE/VPxQk3vjcFe7WKHMu8tZ7Wjwj3BiX9Q1MGVpdaw==",
+  "dgSpecHash": "OO69pfSkfScl1YZxu5rpCrXW/AZbbwDpM9Qt0ZSk0qjju0l4qpxbtixXURD5vX9iDA+IulPf6rhfak8LdS7xcg==",
   "success": true,
   "projectFilePath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Infrastructure\\EasyDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.25.1\\microsoft.identitymodel.tokens.6.25.1.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\arfiz\\.nuget\\packages\\oneof\\3.0.223\\oneof.3.0.223.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.25.1\\system.identitymodel.tokens.jwt.6.25.1.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",

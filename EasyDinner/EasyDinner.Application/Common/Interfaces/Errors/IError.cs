@@ -2,8 +2,9 @@ using System.Net;
 
 namespace EasyDinner.Application.Common.Errors;
 
-public interface IServiceException
+public interface IError
 {
     public HttpStatusCode StatusCode { get; }
     public string ErrorMessage { get; }
+
 }

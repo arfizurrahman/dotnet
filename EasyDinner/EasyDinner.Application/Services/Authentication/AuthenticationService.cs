@@ -2,6 +2,7 @@ using EasyDinner.Application.Common.Errors;
 using EasyDinner.Application.Common.Interfaces.Authentication;
 using EasyDinner.Application.Common.Interfaces.Persistence;
 using EasyDinner.Domain.Entities;
+using OneOf;
 
 namespace EasyDinner.Application.Services.Authentication;
 
@@ -34,12 +35,12 @@ public class AuthenticationService : IAuthenticationService
             token);
     }
 
-    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
+    public OneOf<AuthenticationResult, IError> Register(string firstName, string lastName, string email, string password)
     {
         // 1. Validate the user doesn't exist
         if (_userRepository.GetUserByEmail(email) is not null)
         {
-            throw new DuplicateEmailException();
+            return new DuplicateEmailError();
         }
         // 2. Create user (generate unique ID) & Persist to DB
         var user = new User
