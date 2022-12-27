@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aXKI/+61KI+LfoUwgHGDI5jjgQMbUGPzpEvQP3Py4DNx2FO4jHx1MjfZJHJV3p7iuiY8WLfl625bQi6PhExIyA==",
+  "dgSpecHash": "9lAVKlgAf4l6HaXoHjX1o9qDHHdLftZC8EIvz95MmJBj2eJcxcxmgy8i7jWWJjZ5kd3QqPpZUeA/qTZ1ssU8vQ==",
   "success": true,
   "projectFilePath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Domain\\EasyDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arfiz\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

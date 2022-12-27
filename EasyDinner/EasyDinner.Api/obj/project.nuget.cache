@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r7mQB/IP9hXT2iFqRkJ1KNa+HsR+5SL5ipoYEQzm+RGT3WSyE0ViNH/1Ik2n3rSF0LCSmqHSH5Rg4V5MpReTSA==",
+  "dgSpecHash": "A7IKddcnJdCzQ9YfS43EIhDwIFD9uvFSshpJKN7lUTA2DhOX6gn1mQGu9UfLXXIaUutKI/h0kE/dm8jo235uLw==",
   "success": true,
   "projectFilePath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Api\\EasyDinner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arfiz\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\fluentresults\\3.15.1\\fluentresults.3.15.1.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

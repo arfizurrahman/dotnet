@@ -40,3 +40,4 @@ D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Api\bin\Debug\net7.0\Microsoft.Id
 D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Api\bin\Debug\net7.0\OneOf.dll
 D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Api\bin\Debug\net7.0\FluentResults.dll
+D:\Arfiz\Practice\dotnet\EasyDinner\EasyDinner.Api\bin\Debug\net7.0\ErrorOr.dll

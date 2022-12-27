@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g1qgyl8IJK/vM87Z7KlNSM/QhjfXMhe9G+ZlihMz4EXl8kUrQoJET/TuhYHwKH8kd7XHxeNLabwJdOslio6YFA==",
+  "dgSpecHash": "iLS1inFF32SgtpVs/aQ5sx4o3smvBkCdCEsP8cPhTfvcZAz0da9DVcs/y+oiW4SHFphbuo/6g3bpYLIhgp1joA==",
   "success": true,
   "projectFilePath": "D:\\Arfiz\\Practice\\dotnet\\EasyDinner\\EasyDinner.Application\\EasyDinner.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arfiz\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\fluentresults\\3.15.1\\fluentresults.3.15.1.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\arfiz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
