@@ -3,6 +3,9 @@ using EasyDinner.Contracts.Authentication;
 using EasyDinner.Domain.Common.Errors;
 using Microsoft.AspNetCore.Mvc;
 using ErrorOr;
+using EasyDinner.Application.Services.Authentication.Commands;
+using EasyDinner.Application.Services.Authentication.Queries;
+using EasyDinner.Application.Services.Authentication.Common;
 
 namespace EasyDinner.Api.Controllers;
 
@@ -10,17 +13,19 @@ namespace EasyDinner.Api.Controllers;
 public class AuthenticationController : ApiController
 {
 
-    private readonly IAuthenticationService _authenticationService;
+    private readonly IAuthenticationQueryService _authenticationQueryService;
+    private readonly IAuthenticationCommandService _authenticationCommandService;
 
-    public AuthenticationController(IAuthenticationService authenticationService)
+    public AuthenticationController(IAuthenticationQueryService authenticationQueryService, IAuthenticationCommandService authenticationCommandService)
     {
-        _authenticationService = authenticationService;
+        _authenticationQueryService = authenticationQueryService;
+        _authenticationCommandService = authenticationCommandService;
     }
 
     [Route("register")]
     public IActionResult Register(RegisterRequest request)
     {
-        ErrorOr<AuthenticationResult> authResult = _authenticationService.Register(
+        ErrorOr<AuthenticationResult> authResult = _authenticationCommandService.Register(
             request.FirstName,
             request.LastName,
             request.Email,
@@ -36,7 +41,7 @@ public class AuthenticationController : ApiController
     [Route("login")]
     public IActionResult Login(LoginRequest request)
     {
-        ErrorOr<AuthenticationResult> authResult = _authenticationService.Login(
+        ErrorOr<AuthenticationResult> authResult = _authenticationQueryService.Login(
             request.Email,
             request.Password
         );
